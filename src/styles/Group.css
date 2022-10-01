@@ -1,0 +1,30 @@
+#folder{
+    /* position: relative; */
+    /* left: 3.2rem; */
+    background-color: whitesmoke;
+    height: 100%;
+}
+
+#folder .item{
+    /* height: 5rem; */
+    padding: 1rem;
+    /* border: ; */
+    border-bottom: 1px solid #d9d8d8;
+    /* overflow: hidden; */
+
+}
+
+#item-head{
+    display: flex;
+    justify-content: center;
+}
+
+#f{
+    text-overflow: ellipsis;
+    font-size: 1em !important;
+}
+
+#folder__item--title:hover{
+    cursor: pointer;
+    background-color: rgb(181, 183, 184);
+}

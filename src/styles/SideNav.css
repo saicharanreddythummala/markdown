@@ -1,0 +1,16 @@
+#SideNav{
+    width: 4rem;
+    background-color: #0c0f10;
+    /* position: absolute; */
+    left: 0;
+    padding: 3rem 0;
+    color: whitesmoke;
+    height: 100vh;
+    z-index: 1000;
+}
+
+#SideNav .logo{
+    width: 100%;
+    font-size: 2rem;
+    cursor: pointer;
+}

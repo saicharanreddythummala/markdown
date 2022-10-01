@@ -1,0 +1,28 @@
+#preview{
+    height: 100vh;
+    /* overflow-y: scroll; */
+}
+
+#preview .cont{
+    height: 85vh;
+    padding: 2rem 4rem;
+    /* border: 1px solid black; */
+    overflow: hidden;
+    overflow-y: scroll;
+}
+
+#preview .container span{
+    height: auto;
+    overflow-y: scroll;
+}
+
+#preview .btn{
+    float: right;
+    margin: 0 3rem;
+}
+
+#title-holder{
+    border-bottom: 1px solid rgb(184, 174, 174);
+    margin: 0 2rem;
+    width: unset;
+}
